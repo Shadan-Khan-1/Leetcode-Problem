@@ -19,4 +19,4 @@ nums = [3, 1, 4, 5, 3, 1, 8, 4, 9];
 containsDuplicate(nums);
 // git clone https://github.com/Shadan/Leetcode-Problem
 // $ git config --global user.name "Sha"
-// $ git config --global user.email ksha
+// $ git config --global user.email ksoi
