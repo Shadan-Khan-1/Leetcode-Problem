@@ -31,3 +31,4 @@ function findDuplicateChar(str) {
 
 // Call the function
 findDuplicateChar(str);
+//try
